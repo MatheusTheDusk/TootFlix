@@ -1,4 +1,24 @@
 body {
         color:antiquewhite;
-        background: rebeccapurple;
+        background: rgb(16, 12, 18);
+        margin:0px ;
+}
+
+header{
+border-bottom: solid 2px rgb(14, 14, 109);
+padding:20px;
+font-size:32px;
+color:antiquewhite;
+}
+
+section{
+background:rgb(73, 64, 89);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto{
+        margin-right: 5%;
 }
